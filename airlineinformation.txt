@@ -1,0 +1,27 @@
+Airline id           012
+Airline type         PIA
+Airline Schedule     12:00
+day of departure     monday
+Destination          Karachi To lahore 
+Total seats          50 
+___________________________________________
+Airline id         013
+Airline type       PIA
+Airline Schedule   12:00
+day of departure   Tuesday
+Destination        Karachi To Islamabad
+Total seats        50 
+____________________________________________
+Airline id           014
+Airline type         PIA
+Airline Schedule     12:00
+day of departure     wednesday
+Destination          Karachi To multan
+Total seats          50 
+____________________________________________
+Airline id          015
+Airline type        PIA
+Airline Schedule    12:00
+day of departure    Thursday
+Destination         Karachi To peshawar 
+Total seats         50 
