@@ -48,11 +48,6 @@
                 System.out.println("Enter your age ");
                 passeger_age = input.nextByte();
     
-                // passenger_destination = input.nextLine();
-                // bw = new BufferedWriter(
-                // new
-                // FileWriter("E:\\javaproject\\Java_Swing\\finalproject\\PassengerInformation.txt",
-                // true));
                 bw.write("_______________\n");
                 bw.write("passenger id : " + passegr_id + "\n");
                 bw.write("passenger name : " + passengr_name + "\n");
